@@ -3,9 +3,9 @@ import React from "react";
 const Cards = () => {
   return (
     <div className="flex flex-wrap p-8 justify-center gap-12">
-      <div className="border-2 border-black ">
+      <div className="border-b-2 shadow-lg shadow-rose-400  border-black ">
         <img
-          className="m-2 border-2 border-black"
+          className="m-2 border-black"
           src="https://static.vecteezy.com/system/resources/thumbnails/005/545/335/small/user-sign-icon-person-symbol-human-avatar-isolated-on-white-backogrund-vector.jpg"
           alt=""
         />
